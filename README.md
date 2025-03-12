@@ -1,24 +1,17 @@
-# dtt-house
+# DTT Intake Opdracht
 
-## Project setup
+# How to install?
+
+Step 1 : install vue and npm
+
+step 2: make a new vue project with this command in the terminal:
 ```
-npm install
+vue create dtt-intake
 ```
 
-### Compiles and hot-reloads for development
+step 3: copy the files from the project and paste them into your new project
+
+final step : run the page with this command in the terminal
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
